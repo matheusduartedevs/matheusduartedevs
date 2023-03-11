@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- Atualmente no 1º Semestre de Desenvolvimento de Software Multiplataforma peça FATEC Diadema
+- Atualmente no 1º Semestre de Desenvolvimento de Software Multiplataforma pela FATEC Diadema
 - Estudando Javascript
 
 <div>

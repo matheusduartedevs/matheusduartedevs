@@ -2,8 +2,6 @@
 
 - Atualmente no 1º Semestre de Desenvolvimento de Software Multiplataforma peça FATEC Diadema
 - Estudando Javascript
-- 📫 How to reach me: ...
-
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusduartedevs&show_icons=true&theme=dark"/> 

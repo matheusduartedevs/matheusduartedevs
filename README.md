@@ -1,6 +1,6 @@
 <div class='header'>
-  <h1 align="center">Olá 👋, Eu sou Matheus Duarte</h1>
-  <h3 align="center">Desenvolvedor Front End</h3>
+  <h1 align="center">Hey, I'm Matheus Duarte</h1>
+  <h3 align="center">Full Stack Developer</h3>
   <br />
 </div>
 
@@ -10,7 +10,7 @@
 </div>
 
 <div class='languages' align="center">
-  <h3>Tecnologias que utilizo:</h3>
+  <h3>Coding stuff with:</h3>
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -38,9 +38,5 @@
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </div

@@ -1,42 +1,52 @@
-<div class='header'>
-  <h1 align="center">Hey, I'm Matheus Duarte</h1>
-  <h3 align="center">Full Stack Developer</h3>
-  <br />
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings!+👋;+I'm+Matheus+Duarte!;" />
+</h1>
 
-<div class='stats' align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=matheusduartedevs&show_icons=true&theme=dark"/> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusduartedevs&how_icons=true&theme=dark"/>
-</div>
+<h3 align="center">Full Stack Software Developer</h3>
 
-<div class='languages' align="center">
-  <h3>Coding stuff with:</h3>
+<br/>
+
+<div align="center"> 
   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+ 🧑‍💻 I’m currently building stuff with **Javascript, Typescript, React, Next and Node**
+ 
+</div>
+ 
+<!--  
+<div align="center"> 
+  <a href="/">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <a href="/">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+</div> 
+-->
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages & Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git" /><br>
+</div>
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
+<br/>
+<hr/>
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=matheusduartedevs&count_private=true&show_icons=true&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusduartedevs&count_private=true&hide=HTML,css,scss,nix,roff,rescript&how_icons=true&theme=dark"/>
+  <br/>
+</div>
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-</div
+<hr>
+<br>
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/cb0b3d81-ba6e-41ef-b101-f04e9934f8f9"/>
+</div>

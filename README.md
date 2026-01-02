@@ -1,20 +1,46 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Greetings!+👋;+I'm+Matheus+Duarte!;" />
-</h1>
+<div align="left">
+<pre>
+~ took 508ms
+❯ whoami
+Matheus Duarte
+</br>
 
-<h3 align="center">Front End Developer</h3>
-<br/>
+~/github/matheus-duarte ❯ cat about.txt
+Front End Developer focused on building
+clean, scalable and user-friendly interfaces.
+Strong emphasis on DX, componentization
+and maintainable architectures.
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages & Frameworks ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,react,next,vue" />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" /><br>
-</div>
+~/github/matheus-duarte ❯ stack --list
+JavaScript
+TypeScript
+React
+Next.js
+Vue
+Nuxt
+Node.js
+Express
 
-<hr>
-<div align=center>
-  <img src="https://github.com/user-attachments/assets/cb0b3d81-ba6e-41ef-b101-f04e9934f8f9"/>
+~/github/matheus-duarte ❯ frontend --focus
+Component-driven architecture
+Design systems
+State management
+Accessibility
+Performance & SEO
+Responsive layouts
+
+~/github/matheus-duarte ❯ backend --experience
+REST APIs
+MVC architecture
+Authentication flows
+Background workers
+Queue-based processing
+Database modeling
+
+~/github/matheus-duarte ❯ mobile --stack
+React Native
+Expo
+
+~/github/matheus-duarte ❯ _
+</pre>
 </div>
